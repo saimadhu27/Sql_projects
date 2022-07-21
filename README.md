@@ -1,4 +1,4 @@
-# Sql_projects
+# Sql_project
 ### Data Exploration using sql
 Source of data: Got the data from kaggle website.
 
